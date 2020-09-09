@@ -1,0 +1,19 @@
+.filters-con ul li{
+    list-style: none;
+    float: left;
+    margin: 10px;
+    width: 26%;
+    background-color: #c1f5c1;
+    padding: 4px 0 4px 15px;
+    cursor: pointer;
+} 
+
+ul li.active{
+    background-color: #4dc156 !important;
+}
+
+.filter_heading {
+    padding-left: 36%;
+    border-bottom: 2px solid #d8d0c5;
+    padding-bottom: 6px;
+}
